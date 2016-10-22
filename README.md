@@ -1,4 +1,4 @@
-# React Template
+# Redux ToDo List
 
 ## Setup the project repository
 $ git clone git@github.com:RianaFerreira/react-boilerplate.git  
@@ -14,6 +14,10 @@ $ node server.js
 ## Design
 * [Zurb Foundation] (http://foundation.zurb.com/sites/docs/)
 * [Adobe Color] (https://color.adobe.com/Color-Theme-6-color-theme-8723202/) 
+
+## API endpoints
+* [IPINFO] (http://ipinfo.io/)
+* [Google maps] (https://maps.google.com)
 
 ## Testing
 * [Expect] (https://github.com/mjackson/expect) assertions
