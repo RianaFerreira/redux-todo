@@ -17,3 +17,5 @@ ReactDOM.render(
   <h1 className="text-center">React Project Template</h1>,
   document.getElementById('app')
 );
+
+require('./redux-example.jsx');

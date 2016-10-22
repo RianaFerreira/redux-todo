@@ -20,7 +20,7 @@ $ node server.js
 * [Mocha] (https://mochajs.org/) break tests up into sections
 * [Karma] (https://karma-runner.github.io/1.0/index.html) runs all the tests
 
-## NPM required modules
+## NPM required testing modules
 * karma
 * karma-chrome-launcher
 * karma-mocha
@@ -29,3 +29,6 @@ $ node server.js
 * karma-webpack
 * mocha
 * expect
+
+## NPM required redux modules
+* redux
