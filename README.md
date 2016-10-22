@@ -36,3 +36,4 @@ $ node server.js
 
 ## NPM required redux modules
 * redux
+* redux-thunk
